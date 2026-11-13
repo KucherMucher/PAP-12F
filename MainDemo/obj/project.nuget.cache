@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "ytBw5jxCSNc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\snak3\\OneDrive\\Desktop\\PAP\\MAIN\\MainDemo\\MainDemo\\MainDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\snak3\\.nuget\\packages\\garmin.fit.sdk\\21.221.0\\garmin.fit.sdk.21.221.0.nupkg.sha512",
+    "C:\\Users\\snak3\\.nuget\\packages\\harfbuzzsharp\\8.3.1.1\\harfbuzzsharp.8.3.1.1.nupkg.sha512",
+    "C:\\Users\\snak3\\.nuget\\packages\\harfbuzzsharp.nativeassets.linux\\8.3.1.1\\harfbuzzsharp.nativeassets.linux.8.3.1.1.nupkg.sha512",
+    "C:\\Users\\snak3\\.nuget\\packages\\harfbuzzsharp.nativeassets.macos\\8.3.1.1\\harfbuzzsharp.nativeassets.macos.8.3.1.1.nupkg.sha512",
+    "C:\\Users\\snak3\\.nuget\\packages\\harfbuzzsharp.nativeassets.win32\\8.3.1.1\\harfbuzzsharp.nativeassets.win32.8.3.1.1.nupkg.sha512",
+    "C:\\Users\\snak3\\.nuget\\packages\\scottplot\\5.1.59\\scottplot.5.1.59.nupkg.sha512",
+    "C:\\Users\\snak3\\.nuget\\packages\\skiasharp\\3.119.0\\skiasharp.3.119.0.nupkg.sha512",
+    "C:\\Users\\snak3\\.nuget\\packages\\skiasharp.harfbuzz\\3.119.0\\skiasharp.harfbuzz.3.119.0.nupkg.sha512",
+    "C:\\Users\\snak3\\.nuget\\packages\\skiasharp.nativeassets.linux.nodependencies\\3.119.0\\skiasharp.nativeassets.linux.nodependencies.3.119.0.nupkg.sha512",
+    "C:\\Users\\snak3\\.nuget\\packages\\skiasharp.nativeassets.macos\\3.119.0\\skiasharp.nativeassets.macos.3.119.0.nupkg.sha512",
+    "C:\\Users\\snak3\\.nuget\\packages\\skiasharp.nativeassets.win32\\3.119.0\\skiasharp.nativeassets.win32.3.119.0.nupkg.sha512"
+  ],
+  "logs": []
+}
